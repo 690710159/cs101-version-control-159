@@ -15,6 +15,6 @@
 - Game Development
 
 ## Skills
-Problem solving
-Python basics
-Teamwork
+-Problem solving
+-Python basics
+-Teamwork
