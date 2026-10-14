@@ -9,3 +9,7 @@
 - Learn C programming
 - Learn Game
 - Build a Game
+
+## Technology Interests
+- Artificial Intelligence
+- Game Development
